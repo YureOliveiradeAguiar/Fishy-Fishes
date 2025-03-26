@@ -1,5 +1,6 @@
 # Fishy-Fishes
-No geral, o código é bem eficaz com organização e uso de memória. As melhorias que poderiam ser feitas nesses aspectos, muitas das quais eu aprendi ao longo do projeto, não estão
-aplicadas por falta de necessidade, já está bem otimizado para essa versão inicial e amostral. Poucos comentários pois eu trabalhei sozinho nesse código e não os necessitei.
-Fishy Fishes é um jogo inspirado no clássico Fishy, porém com um estilo único e inovações significativas tanto em mecânica quanto em design.
-Desenvolvê-lo representou meu segundo projeto em C#, proporcionando uma valiosa oportunidade de aprendizado e servindo como um sólido exemplo das minhas habilidades em programação.
+Overall, the code is highly efficient in terms of organization and memory usage. The potential improvements in these aspects—many of which I learned throughout the project—have not been applied due to lack of necessity, as it is already well-optimized for this initial and sample version. There are few comments since I worked on this code alone and did not require them.
+
+Fishy Fishes is a game inspired by the classic Fishy, but with a unique style and significant innovations in both mechanics and design.
+
+Developing it was my second project in C#, providing a valuable learning opportunity and serving as a solid example of my programming skills.
